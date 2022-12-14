@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ssunil009
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-•	The marketing team wants to launch some campaigns, and they need your help with the following
+•	Rewarding Most Loyal Users , Remind Inactive Users to Start Posting , Declaring Contest Winner
+•	hashtag Researching , Launch AD Campaign
+•	investors want to know if Instagram is performing well and is not becoming redundant like Facebook, they want to assess the app on the following grounds - User Engagement , Bots & Fake Accounts
 
-<!---
-ssunil009/ssunil009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
